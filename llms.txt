@@ -1,0 +1,23 @@
+# Bienfait.co – Agence No-Code & Automatisation
+Bienfait est une agence de conseil spécialisée dans la création de produits digitaux sur mesure grâce aux solutions no-code et à l’automatisation.  
+Nous aidons les PME et ETI à concevoir, optimiser et automatiser leurs outils pour gagner en productivité et en performance.
+
+## Objectifs du site
+- Présenter notre offre de services no-code et automatisation.
+- Partager des études de cas pour illustrer nos réalisations.
+- Faciliter la prise de contact pour de nouveaux projets.
+
+## Pages clés
+- [Accueil](https://www.bienfait.co/)
+- [Notre offre](https://www.bienfait.co/notre-offre)
+- [Études de cas](https://www.bienfait.co/cas-client)
+- [Contact](https://www.bienfait.co/contact)
+
+## Domaines d’expertise
+- **No-code** : Airtable, Make, Softr, Notion, Fillout, Xano…
+- **Automatisation** : intégration de données, synchronisation inter-outils, workflows optimisés.
+- **Création d’outils métiers** : CRM, portails clients, applications internes.
+- **Reporting & Analyse** : tableaux de bord personnalisés et automatisés.
+
+## À propos
+Bienfait accompagne ses clients de la phase de cadrage à la mise en production, en intégrant une compréhension fine des enjeux métiers et une expertise technique avancée des outils no-code.
